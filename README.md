@@ -1,3 +1,3 @@
 # MojAutoRMA
 
-Android application. Stored in .rar format.
+Android application(target API 23). Stored in .rar format.
